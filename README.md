@@ -1,4 +1,4 @@
-![Banner](assets/zero.jpeg)
+![Banner](assets/zero2.png)
 # 🚀 Zeroes to Heroes Challenge
 
 Welcome to **Zeroes to Heroes**, a hands-on learning challenge designed to help students move from learning concepts to building real-world tech projects.
